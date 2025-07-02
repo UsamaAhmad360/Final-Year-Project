@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="esp32_p30_w11_9de09df6ee672a047957b8e804927eb5_1" modelIndex="85410529" path="/home/usama/Documents/Fritzing/parts/user/esp32_p30_w11_9de09df6ee672a047957b8e804927eb5_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="75255e2f65c7e5f385f1565cd28977a1" modelIndex="85410531" path="/home/usama/Documents/Fritzing/parts/user/SRF05 Ultrasonic Rangefinder__856ec32add635ca789a835a39fed2389__67d4590627079fd4efa77e6430f0e9c7__7feda7cf112876e5bd1c6b854136dc6d__2deb64b76e84d54b89aa5b7925b91a01__1309efc522384c71a9feeaf68dcf45c3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="1-chan-5v-relay-module_1" modelIndex="85410539" path="/home/usama/Documents/Fritzing/parts/user/1-chan-5v-relay-module_1.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

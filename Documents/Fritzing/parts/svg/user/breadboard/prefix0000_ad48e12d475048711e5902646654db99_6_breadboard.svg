@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="337.2832336425781px" version="1.1" gorn="0"  viewBox="0 0 337.2832336425781 114.22708892822266" height="114.22708892822266px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" id="master-artboard">
+    <desc >
+        <referenceFile >Untitled (14).svg</referenceFile>
+    </desc>
+    <g  transform="matrix(0.5507498979568481, 0, 0, 0.5507498979568481, 0.000008602515663369559, 2.0144785812783823)">
+        <g >
+            <g >
+                <rect width="337.2832336425781" x="0" y="0" gorn="0.1.0.0.0"  height="114.22708892822266" style="fill: white; fill-opacity: 0; pointer-events: none;" id="ee-background"/>
+                <g  transform="matrix(-3.299662351608276, -0.004481667652726172, 0.004481667652726172, -3.299662351608276, 672.7446533997714, 949.2012066690404)">
+                    <g >
+                        <g >
+                            <metadata  id="metadata5"/>
+                            <g gorn="0.1.0.0.1.0.0.1"  id="layer1">
+                                <path fill="#e6e6e6" gorn="0.1.0.0.1.0.0.1.0"  id="rect28" stroke-width="0.264583" d="M 95.490206 228.492783 H 194.519972 A 9.071428 6.803571 0 0 1 203.5914 235.296354 V 280.653502 A 9.071428 6.803571 0 0 1 194.519972 287.457073 H 95.490206 A 9.071428 6.803571 0 0 1 86.418777 280.653502 V 235.296354 A 9.071428 6.803571 0 0 1 95.490206 228.492783 Z"/>
+                                <path fill="#f9f9f9" gorn="0.1.0.0.1.0.0.1.1"  id="path34" stroke-width="0.26107" d="M 197.704465 274.544342 A 7.248364 7.292254 0 0 1 190.4561 281.836596 A 7.248364 7.292254 0 0 1 183.207736 274.544342 A 7.248364 7.292254 0 0 1 190.4561 267.252088 A 7.248364 7.292254 0 0 1 197.704465 274.544342 Z"/>
+                                <path fill="#808080" gorn="0.1.0.0.1.0.0.1.2"  id="path40" stroke-width="0.212986" d="M 195.544074 274.587067 A 5.122656 5.222882 0 0 1 190.421417 279.809949 A 5.122656 5.222882 0 0 1 185.298761 274.587067 A 5.122656 5.222882 0 0 1 190.421417 269.364184 A 5.122656 5.222882 0 0 1 195.544074 274.587067 Z"/>
+                                <path stroke-opacity="1" fill="#1a1a1a" gorn="0.1.0.0.1.0.0.1.3"  stroke="none" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:normal;font-family:Droid Sans;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:27.3;stroke-dasharray:none;stroke-dashoffset:0;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" fill-opacity="1" id="rect877" stroke-width="1.378" d="m 32.74052,261.12233 c 0.386243,1.36638 18.598547,-16.99616 53.854817,-1.20271 l 0.133635,3.47448 C 65.480384,254.21817 53.54996,252.67428 32.74052,264.19591 Z" font-size="medium"/>
+                                <g  transform="rotate(17.156628)">
+                                    <g >
+                                        <path fill="#ff0000" gorn="0.1.0.0.1.0.0.1.4.0.0"  style="stroke-miterlimit:27.3;stroke-dasharray:none" id="connector1pin" stroke-width="1.39354" d="M 100.075965 239.84494 H 107.76106 A 0.549704 0.502252 0 0 1 108.310764 240.347193 V 240.583428 A 0.549704 0.502252 0 0 1 107.76106 241.08568 H 100.075965 A 0.549704 0.502252 0 0 1 99.52626 240.583428 V 240.347193 A 0.549704 0.502252 0 0 1 100.075965 239.84494 Z"/>
+                                    </g>
+                                </g>
+                                <g  transform="matrix(0.95550194,-0.29498483,-0.29498483,-0.95550194,0,0)">
+                                    <g >
+                                        <path fill="#000000" gorn="0.1.0.0.1.0.0.1.5.0.0"  style="stroke-miterlimit:27.3;stroke-dasharray:none" id="connector0pin" stroke-width="1.39354" d="M -54.67772 -261.426422 H -46.992625 A 0.549704 0.502252 0 0 1 -46.442921 -260.92417 V -260.687935 A 0.549704 0.502252 0 0 1 -46.992625 -260.185682 H -54.67772 A 0.549704 0.502252 0 0 1 -55.227425 -260.687935 V -260.92417 A 0.549704 0.502252 0 0 1 -54.67772 -261.426422 Z"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

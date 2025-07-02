@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="battery">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="blueIOT_RevB" modelIndex="85410999" path="/usr/share/fritzing/parts/core/Arduino-BLE-LowPower-RevB-final_5.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="c7c8e292b3beec531de0c51f2576d329" modelIndex="85410997" path="/usr/share/fritzing/parts/core/4 x AAA Battery Mount.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(fix)_bottom" modelIndex="85411001" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(fix)-bottom.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(fix)" modelIndex="85410599" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(fix).fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(icsp+)_bottom" modelIndex="85411004" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(iscp+)-bottom.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino-Fio-v22(icsp+)" modelIndex="85411006" path="/usr/share/fritzing/parts/core/Arduino-Fio-v22(iscp+).fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="85410590" path="/usr/share/fritzing/parts/core/Arduino_DUE_V02b.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino_Leonardo_Rev3(fix)" modelIndex="85410594" path="/usr/share/fritzing/parts/core/Arduino_Leonardo_Rev3(fix).fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="85410588" path="/usr/share/fritzing/parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Arduino Pro" modelIndex="85410598" path="/usr/share/fritzing/parts/core/Arduino_Pro.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="85411012" path="/usr/share/fritzing/parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="85411014" path="/usr/share/fritzing/parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="5675" path="/usr/share/fritzing/parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="85410764" path="/usr/share/fritzing/parts/core/ArduinoBluetoothMatev13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ArduPilotMega_v15" modelIndex="85410787" path="/usr/share/fritzing/parts/core/ArduPilotMega_v15.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="77c36646df552e9fe72f360837f556ccleg" modelIndex="85411019" path="/usr/share/fritzing/parts/core/Battery block 9V.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="1000AFDF10011leg" modelIndex="5671" path="/usr/share/fritzing/parts/core/battery-AA.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Bean_revE" modelIndex="5678" path="/usr/share/fritzing/parts/core/Bean_revE.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="blueIOT_Rc1-final" modelIndex="5685" path="/usr/share/fritzing/parts/core/blueIOT_Rc1-final.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="DeadOn RTC - DS3234 Breakout-v11" modelIndex="85410767" path="/usr/share/fritzing/parts/core/DeadOn RTC - DS3234 Breakout-v11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-2-AA" modelIndex="85411025" path="/usr/share/fritzing/parts/core/electromechanical-battery-2-aa.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-2-AAA" modelIndex="85411027" path="/usr/share/fritzing/parts/core/electromechanical-battery-2-aaa.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AA-KIT" modelIndex="85411029" path="/usr/share/fritzing/parts/core/electromechanical-battery-aa-kit.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AA" modelIndex="85411031" path="/usr/share/fritzing/parts/core/electromechanical-battery-aa.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Electromechanical-BATTERY-AAA" modelIndex="85411033" path="/usr/share/fritzing/parts/core/electromechanical-battery-aaa.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="EspruinoPico" modelIndex="85411035" path="/usr/share/fritzing/parts/core/EspruinoPico_8fb644a5b6642112445ed6d90bc494d8_6.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="85410713" path="/usr/share/fritzing/parts/core/GPSShield-v15.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="gs1011_breakout-v11" modelIndex="85410788" path="/usr/share/fritzing/parts/core/gs1011_breakout-v11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="85411039" path="/usr/share/fritzing/parts/core/huzzah_esp8266.fzp">
+            <property name="part number" value="2471"/>
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_bottom_fix" modelIndex="85411041" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout-bottom_fix.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_fix" modelIndex="85411043" path="/usr/share/fritzing/parts/core/intel_edison_minibreakout_fix.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="85410751" path="/usr/share/fritzing/parts/core/ITG-3200-v11.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad Battery-Connect-v11" modelIndex="85411046" path="/usr/share/fritzing/parts/core/LilyPad Battery-Connect-v11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad Coincell-Battery-v17" modelIndex="85411048" path="/usr/share/fritzing/parts/core/LilyPad Coincell-Battery-v17.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad SimplePower-v13" modelIndex="85411050" path="/usr/share/fritzing/parts/core/LilyPad SimplePower-v13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LilyPad_Arduino_USB" modelIndex="85411052" path="/usr/share/fritzing/parts/core/LilyPad_Arduino_USB.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Lilypad_PowerSupply-v18" modelIndex="85411054" path="/usr/share/fritzing/parts/core/Lilypad_PowerSupply-v18.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="LiPo-USB-Charger-v21" modelIndex="85410774" path="/usr/share/fritzing/parts/core/LiPo-USB-Charger-v21.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Memoire-1.0" modelIndex="85411057" path="/usr/share/fritzing/parts/core/Memoire-1.0.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="NCP1400_5V_Step-Up_v11" modelIndex="85410776" path="/usr/share/fritzing/parts/core/NCP1400_5V_Step-Up_v11.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="OBD-II-UART-v13" modelIndex="85410777" path="/usr/share/fritzing/parts/core/OBD-II-UART-v13.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PowerBoost 500C - Adafruit" modelIndex="85411061" path="/usr/share/fritzing/parts/core/PowerBoost 500C - Adafruit.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="85410758" path="/usr/share/fritzing/parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="PowerSupply-Lipo-v15" modelIndex="85411064" path="/usr/share/fritzing/parts/core/PowerSupply-Lipo-v15.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="Real_Time_Clock_Module___DS1307_RTC_Breakout_Board" modelIndex="85410781" path="/usr/share/fritzing/parts/core/Real_Time_Clock_Module___DS1307_RTC_Breakout_Board.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-BC9VPC-" modelIndex="85411067" path="/usr/share/fritzing/parts/core/sparkfun-connectors-bc9vpc-.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-1100" modelIndex="85411069" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-1100.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-12MM" modelIndex="85411071" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-12mm.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-12PTH" modelIndex="85411073" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-12pth.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20MM_4LEGS" modelIndex="85411075" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20mm_4legs.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20PTH" modelIndex="85411077" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20pth.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20PTH2" modelIndex="85411079" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20pth2.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-20SMD" modelIndex="85411081" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-20smd.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-245MM" modelIndex="85411083" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-245mm.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-245PTH" modelIndex="85411085" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-245pth.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-AA-PANEL" modelIndex="85411087" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-aa-panel.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-AA" modelIndex="85411089" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-aa.fzp">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-BATTERY-FOB" modelIndex="85411091" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-battery-fob.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-FKIT-COIN_CELL-LIR2450-H" modelIndex="85411093" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-fkit-coin_cell-lir2450-h.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-LIPO-OUTLINE-100" modelIndex="85411095" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-lipo-outline-100.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-LIPO-OUTLINE-1100" modelIndex="85411097" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-lipo-outline-1100.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-LIPO-OUTLINE-2000" modelIndex="85411099" path="/usr/share/fritzing/parts/core/sparkfun-electromechanical-lipo-outline-2000.fzp">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-FreqCtrl-DS1307-SO8" modelIndex="85411101" path="/usr/share/fritzing/parts/core/sparkfun-freqctrl-ds1307-so8.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-FreqCtrl-DS3234-" modelIndex="85411103" path="/usr/share/fritzing/parts/core/sparkfun-freqctrl-ds3234-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-LM2931-" modelIndex="85411105" path="/usr/share/fritzing/parts/core/sparkfun-poweric-lm2931-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-LM2931_FIXED-" modelIndex="85411107" path="/usr/share/fritzing/parts/core/sparkfun-poweric-lm2931_fixed-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="icon">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX1555-" modelIndex="85411109" path="/usr/share/fritzing/parts/core/sparkfun-poweric-max1555-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX1704X-" modelIndex="85411111" path="/usr/share/fritzing/parts/core/sparkfun-poweric-max1704x-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX98300-ETA+" modelIndex="85411113" path="/usr/share/fritzing/parts/core/sparkfun-poweric-max98300-eta_.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MAX98306-ETD+" modelIndex="85411115" path="/usr/share/fritzing/parts/core/sparkfun-poweric-max98306-etd_.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MCP73831-" modelIndex="85411117" path="/usr/share/fritzing/parts/core/sparkfun-poweric-mcp73831-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MCP73833-" modelIndex="85411119" path="/usr/share/fritzing/parts/core/sparkfun-poweric-mcp73833-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+        <instance moduleIdRef="SparkFun-PowerIC-MCP7384XX-" modelIndex="85411121" path="/usr/share/fritzing/parts/core/sparkfun-poweric-mcp7384xx-.fzp" flippedSMD="true">
+            <views>
+                <iconView layer="">
+                    <geometry z="0" x="-1" y="-1"/>
+                </iconView>
+            </views>
+        </instance>
+    </instances>
+</module>
