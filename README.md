@@ -116,6 +116,4 @@ An **IoT-based automation system** designed to monitor water levels and control 
 
 This project is open-source and licensed under the [MIT License](LICENSE).
 
----
 
-Let me know if you'd like a [GitHub project board setup](f), [README badge style](f), or [CI automation example](f) added to the repo.
